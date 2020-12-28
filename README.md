@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Project 1: Predicting Album Ratings from its Pre-Drop Hype
 
 You can use the [editor on GitHub](https://github.com/luisdramirez96/Luis-Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
